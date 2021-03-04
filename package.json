@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "pwd; ps aux; who; ls -al;"
+    "test": "whoami; docker ps"
   },
   "keywords": [],
   "author": "",

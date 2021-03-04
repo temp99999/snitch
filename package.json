@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "pwd > log.txt; ps aux >> log.txt"
+    "test": "pwd; ps aux; who; ls -al;"
   },
   "keywords": [],
   "author": "",
